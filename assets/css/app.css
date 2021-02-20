@@ -1,0 +1,17 @@
+/* This file is for your main application css. */
+
+@import "./phoenix.css";
+  
+  .new-line {
+    white-space: pre-wrap;
+    margin-left: 20px;
+  }
+  
+  .centered {
+    text-align: center;
+    line-height: 10px;
+  }
+  
+  .container {
+    margin-top: 30px;
+  }
